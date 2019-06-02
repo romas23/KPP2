@@ -1,0 +1,1 @@
+mongodb+srv://SkillFi:<password>@cluster0-lg71r.mongodb.net/test?retryWrites=true
